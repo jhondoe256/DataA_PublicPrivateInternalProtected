@@ -1,0 +1,12 @@
+D:\Help\StudentHelp_Access\DataAccess.Data\bin\Debug\net7.0\DataAccess.Data.deps.json
+D:\Help\StudentHelp_Access\DataAccess.Data\bin\Debug\net7.0\DataAccess.Data.dll
+D:\Help\StudentHelp_Access\DataAccess.Data\bin\Debug\net7.0\DataAccess.Data.pdb
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.csproj.AssemblyReference.cache
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.AssemblyInfoInputs.cache
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.AssemblyInfo.cs
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.csproj.CoreCompileInputs.cache
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.dll
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\refint\DataAccess.Data.dll
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\DataAccess.Data.pdb
+D:\Help\StudentHelp_Access\DataAccess.Data\obj\Debug\net7.0\ref\DataAccess.Data.dll
